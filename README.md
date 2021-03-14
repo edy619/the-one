@@ -1,3 +1,4 @@
-hola. soy nuevo en esto i espero conocer mucho 
+hola. soy nuevo en esto
+espero conocer mucho de la programacion.
 
 
